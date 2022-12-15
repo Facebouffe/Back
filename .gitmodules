@@ -1,0 +1,9 @@
+[submodule "Microservices_Configuration"]
+	path = Microservices_Configuration
+	url = https://github.com/Facebouffe/Microservices_Configuration.git
+[submodule "eureka-server-configurator"]
+	path = eureka-server-configurator
+	url = https://github.com/Facebouffe/eureka-server-configurator.git
+[submodule "Microservice-order"]
+	path = Microservice-order
+	url = https://github.com/Facebouffe/Microservice-order.git
