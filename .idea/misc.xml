@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/eureka-server-configurator/config-server/pom.xml" />
         <option value="$PROJECT_DIR$/Microservice-order/microservice-order/pom.xml" />
         <option value="$PROJECT_DIR$/parent-project/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-service-discovery/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
