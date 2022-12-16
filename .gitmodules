@@ -7,3 +7,6 @@
 [submodule "Microservice-order"]
 	path = Microservice-order
 	url = https://github.com/Facebouffe/Microservice-order.git
+[submodule "eureka-service-discovery"]
+	path = eureka-service-discovery
+	url = https://github.com/Facebouffe/eureka-service-discovery.git
