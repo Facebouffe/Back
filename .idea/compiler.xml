@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-config-server" />
         <module name="eureka-service-discovery" />
+        <module name="config-server" />
         <module name="microservice-order" />
       </profile>
     </annotationProcessing>
@@ -23,7 +24,7 @@
       <module name="config-server" options="-parameters" />
       <module name="config-server (1) (com.Facebouffe)" options="-parameters" />
       <module name="eureka-config-server" options="-parameters" />
-      <module name="eureka-service-discovery" options="" />
+      <module name="eureka-service-discovery" options="-parameters" />
       <module name="microservice-order" options="-parameters" />
     </option>
   </component>
