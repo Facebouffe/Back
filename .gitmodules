@@ -14,3 +14,7 @@
 	path = eureka-service-discovery
 	url = https://github.com/Facebouffe/eureka-service-discovery.git
 	branch = main
+[submodule "zipkin-server"]
+	path = zipkin-server
+	url = https://github.com/Facebouffe/zipkin-server.git
+	branch = main
