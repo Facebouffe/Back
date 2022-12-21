@@ -14,9 +14,7 @@
 	path = eureka-service-discovery
 	url = https://github.com/Facebouffe/eureka-service-discovery.git
 	branch = main
-[submodule "microservice-clientui"]
-	path = microservice-clientui
-	url = https://github.com/Facebouffe/microservice-clientui.git
 [submodule "zipkin-server"]
 	path = zipkin-server
 	url = https://github.com/Facebouffe/zipkin-server.git
+	branch = main
