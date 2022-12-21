@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/parent-project/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-service-discovery/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-service-discovery/eureka-service-discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-clientui/microservice-clientui/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin-server/zipkin-server/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

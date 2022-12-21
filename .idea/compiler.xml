@@ -9,12 +9,14 @@
         <module name="eureka-config-server" />
         <module name="eureka-service-discovery" />
         <module name="config-server" />
+        <module name="zipkin-server" />
         <module name="microservice-order" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="config-server (1) (com.Facebouffe)" target="19" />
       <module name="config-server (2) (com.facebouffe)" target="19" />
+      <module name="microservice-clientui" target="19" />
       <module name="microservices" target="19" />
       <module name="parent-project" target="1.7" />
     </bytecodeTargetLevel>
@@ -25,7 +27,9 @@
       <module name="config-server (1) (com.Facebouffe)" options="-parameters" />
       <module name="eureka-config-server" options="-parameters" />
       <module name="eureka-service-discovery" options="-parameters" />
+      <module name="microservice-clientui" options="-parameters" />
       <module name="microservice-order" options="-parameters" />
+      <module name="zipkin-server" options="-parameters" />
     </option>
   </component>
 </project>
