@@ -9,6 +9,7 @@
         <module name="eureka-service-discovery" />
         <module name="eureka-config-server" />
         <module name="config-server" />
+        <module name="microservice-user" />
         <module name="microservice-order" />
       </profile>
     </annotationProcessing>
@@ -48,6 +49,7 @@
       <module name="eureka-service-discovery" options="-parameters" />
       <module name="microservice-clientui" options="-parameters" />
       <module name="microservice-order" options="-parameters" />
+      <module name="microservice-user" options="-parameters" />
       <module name="zipkin-server" options="" />
     </option>
   </component>
