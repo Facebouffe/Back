@@ -6,19 +6,38 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="eureka-config-server" />
         <module name="eureka-service-discovery" />
+        <module name="eureka-config-server" />
         <module name="config-server" />
-        <module name="zipkin-server" />
         <module name="microservice-order" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="benchmarks" target="1.5" />
       <module name="config-server (1) (com.Facebouffe)" target="19" />
       <module name="config-server (2) (com.facebouffe)" target="19" />
       <module name="microservice-clientui" target="19" />
       <module name="microservices" target="19" />
       <module name="parent-project" target="1.7" />
+      <module name="zipkin" target="1.5" />
+      <module name="zipkin-collector" target="1.5" />
+      <module name="zipkin-collector-activemq" target="1.5" />
+      <module name="zipkin-collector-kafka" target="1.5" />
+      <module name="zipkin-collector-parent" target="1.8" />
+      <module name="zipkin-collector-parent (1)" target="1.5" />
+      <module name="zipkin-collector-parent (2)" target="1.8" />
+      <module name="zipkin-collector-rabbitmq" target="1.5" />
+      <module name="zipkin-collector-scribe" target="1.5" />
+      <module name="zipkin-junit" target="1.5" />
+      <module name="zipkin-lens" target="1.5" />
+      <module name="zipkin-parent" target="1.5" />
+      <module name="zipkin-server" target="1.5" />
+      <module name="zipkin-server (1) (io.zipkin)" target="1.8" />
+      <module name="zipkin-storage-cassandra" target="1.5" />
+      <module name="zipkin-storage-elasticsearch" target="1.5" />
+      <module name="zipkin-storage-mysql-v1" target="1.5" />
+      <module name="zipkin-storage-parent" target="1.5" />
+      <module name="zipkin-tests" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -29,7 +48,7 @@
       <module name="eureka-service-discovery" options="-parameters" />
       <module name="microservice-clientui" options="-parameters" />
       <module name="microservice-order" options="-parameters" />
-      <module name="zipkin-server" options="-parameters" />
+      <module name="zipkin-server" options="" />
     </option>
   </component>
 </project>

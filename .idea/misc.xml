@@ -13,11 +13,28 @@
         <option value="$PROJECT_DIR$/eureka-service-discovery/eureka-service-discovery/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-clientui/microservice-clientui/pom.xml" />
         <option value="$PROJECT_DIR$/zipkin-server/zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/parent-project/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin/zipkin-collector/activemq/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin/zipkin-collector/core/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin/zipkin-collector/kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin/zipkin-collector/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin/zipkin-collector/rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin/zipkin-collector/scribe/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin/zipkin-junit/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin/zipkin-lens/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin/zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin/zipkin-storage/cassandra/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin/zipkin-storage/elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin/zipkin-storage/mysql-v1/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin/zipkin-storage/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin/zipkin-tests/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin/zipkin/pom.xml" />
       </set>
     </option>
   </component>
