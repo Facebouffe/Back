@@ -18,3 +18,7 @@
 	path = zipkin-server
 	url = https://github.com/Facebouffe/zipkin-server.git
 	branch = main
+[submodule "microservice-user"]
+	path = microservice-user
+	url = https://github.com/Facebouffe/microservice-user.git
+	branch = main
