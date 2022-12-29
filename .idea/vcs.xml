@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Microservice-order" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Microservices_Configuration" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/eureka-server-configurator" vcs="Git" />
