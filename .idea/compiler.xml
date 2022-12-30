@@ -19,6 +19,7 @@
       <module name="config-server (2) (com.facebouffe)" target="19" />
       <module name="microservice-clientui" target="19" />
       <module name="microservices" target="19" />
+      <module name="ms-user" target="19" />
       <module name="parent-project" target="1.7" />
       <module name="zipkin" target="1.5" />
       <module name="zipkin-collector" target="1.5" />
@@ -50,6 +51,7 @@
       <module name="microservice-clientui" options="-parameters" />
       <module name="microservice-order" options="-parameters" />
       <module name="microservice-user" options="-parameters" />
+      <module name="ms-user" options="-parameters" />
       <module name="zipkin-server" options="" />
     </option>
   </component>
