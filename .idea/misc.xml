@@ -18,6 +18,8 @@
         <option value="$PROJECT_DIR$/ms-user/ms-user/pom.xml" />
         <option value="$PROJECT_DIR$/ms-user/microservice-user/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-user/ms-user/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-user/microservice-user/microservice-user/pom.xml" />
+        <option value="$PROJECT_DIR$/Gateway/Gateway/Gateway/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -21,3 +21,6 @@
 [submodule "microservice-user"]
 	path = microservice-user
 	url = https://github.com/Facebouffe/microservice-user.git
+[submodule "Gateway"]
+	path = Gateway
+	url = https://github.com/Facebouffe/Gateway.git
