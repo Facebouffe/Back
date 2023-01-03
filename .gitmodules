@@ -21,3 +21,6 @@
 [submodule "microservice-user"]
 	path = microservice-user
 	url = https://github.com/Facebouffe/microservice-user.git
+[submodule "microservice-restaurant"]
+	path = microservice-restaurant
+	url = https://github.com/Facebouffe/microservice-restaurant.git
