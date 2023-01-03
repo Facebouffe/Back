@@ -20,7 +20,6 @@
         <option value="$PROJECT_DIR$/microservice-user/ms-user/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-restaurant/microservice-restaurant/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-user/microservice-user/microservice-user/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-user/microservice-user/microservice-user/pom.xml" />
         <option value="$PROJECT_DIR$/Gateway/Gateway/Gateway/pom.xml" />
       </list>
     </option>
@@ -46,7 +45,7 @@
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="19" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
