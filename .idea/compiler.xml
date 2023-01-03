@@ -12,6 +12,7 @@
         <module name="Gateway" />
         <module name="eureka-service-discovery" />
         <module name="microservice-user" />
+        <module name="microservice-article" />
         <module name="microservice-order" />
       </profile>
     </annotationProcessing>
@@ -51,6 +52,7 @@
       <module name="config-server (1) (com.Facebouffe)" options="-parameters" />
       <module name="eureka-config-server" options="-parameters" />
       <module name="eureka-service-discovery" options="-parameters" />
+      <module name="microservice-article" options="-parameters" />
       <module name="microservice-clientui" options="-parameters" />
       <module name="microservice-order" options="-parameters" />
       <module name="microservice-restaurant" options="-parameters" />

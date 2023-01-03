@@ -21,6 +21,7 @@
         <option value="$PROJECT_DIR$/microservice-restaurant/microservice-restaurant/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-user/microservice-user/microservice-user/pom.xml" />
         <option value="$PROJECT_DIR$/Gateway/Gateway/Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-article/microservice-article/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
