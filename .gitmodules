@@ -30,3 +30,6 @@
 [submodule "microservice-article"]
 	path = microservice-article
 	url = https://github.com/Facebouffe/microservice-article.git
+[submodule "microservice-comment"]
+	path = microservice-comment
+	url = https://github.com/Facebouffe/microservice-comment.git
