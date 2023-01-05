@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-config-server" />
         <module name="microservice-comment" />
+        <module name="microservice-payment" />
         <module name="config-server" />
         <module name="microservice-restaurant" />
         <module name="Gateway" />
@@ -57,6 +58,7 @@
       <module name="microservice-clientui" options="-parameters" />
       <module name="microservice-comment" options="-parameters" />
       <module name="microservice-order" options="-parameters" />
+      <module name="microservice-payment" options="-parameters" />
       <module name="microservice-restaurant" options="-parameters" />
       <module name="microservice-user" options="-parameters" />
       <module name="ms-user" options="-parameters" />

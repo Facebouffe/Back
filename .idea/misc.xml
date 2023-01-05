@@ -23,6 +23,7 @@
         <option value="$PROJECT_DIR$/Gateway/Gateway/Gateway/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-article/microservice-article/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-comment/microservice-comment/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-payment/microservice-payment/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

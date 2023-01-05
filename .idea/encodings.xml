@@ -13,6 +13,9 @@
     <file url="file://$PROJECT_DIR$/microservice-article/microservice-article/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-clientui/microservice-clientui/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-comment/microservice-comment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-comment/microservice-comment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-payment/microservice-payment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-payment/microservice-payment/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-restaurant/microservice-restaurant/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-user/microservice-user/microservice-user/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservice-user/microservice-user/microservice-user/src/main/resources" charset="UTF-8" />

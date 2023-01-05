@@ -33,3 +33,6 @@
 [submodule "microservice-comment"]
 	path = microservice-comment
 	url = https://github.com/Facebouffe/microservice-comment.git
+[submodule "microservice-payment"]
+	path = microservice-payment
+	url = https://github.com/Facebouffe/microservice-payment.git
