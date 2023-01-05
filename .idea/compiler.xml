@@ -12,6 +12,7 @@
         <module name="config-server" />
         <module name="microservice-restaurant" />
         <module name="Gateway" />
+        <module name="microservice-delivery" />
         <module name="eureka-service-discovery" />
         <module name="microservice-user" />
         <module name="microservice-article" />
@@ -57,6 +58,7 @@
       <module name="microservice-article" options="-parameters" />
       <module name="microservice-clientui" options="-parameters" />
       <module name="microservice-comment" options="-parameters" />
+      <module name="microservice-delivery" options="-parameters" />
       <module name="microservice-order" options="-parameters" />
       <module name="microservice-payment" options="-parameters" />
       <module name="microservice-restaurant" options="-parameters" />
