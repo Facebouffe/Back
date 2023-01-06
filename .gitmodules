@@ -39,3 +39,6 @@
 [submodule "microservice-delivery"]
 	path = microservice-delivery
 	url = https://github.com/Facebouffe/microservice-delivery.git
+[submodule "microservice-notification"]
+	path = microservice-notification
+	url = https://github.com/Facebouffe/microservice-notification.git

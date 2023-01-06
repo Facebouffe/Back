@@ -25,6 +25,7 @@
         <option value="$PROJECT_DIR$/microservice-comment/microservice-comment/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-payment/microservice-payment/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-delivery/microservice-delivery/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-notification/microservice-notification/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
