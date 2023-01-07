@@ -11,6 +11,7 @@
     <mapping directory="$PROJECT_DIR$/microservice-article" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/microservice-comment" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/microservice-delivery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/microservice-notification" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/microservice-payment" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/microservice-restaurant" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/microservice-user" vcs="Git" />
