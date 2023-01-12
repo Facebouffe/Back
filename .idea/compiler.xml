@@ -6,16 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="eureka-config-server" />
-        <module name="microservice-comment" />
         <module name="microservice-payment" />
-        <module name="config-server" />
+        <module name="microservice-statistic" />
         <module name="microservice-restaurant" />
         <module name="microservice-notification" />
-        <module name="Gateway" />
-        <module name="microservice-delivery" />
         <module name="eureka-service-discovery" />
         <module name="microservice-user" />
+        <module name="eureka-config-server" />
+        <module name="microservice-comment" />
+        <module name="config-server" />
+        <module name="Gateway" />
+        <module name="microservice-delivery" />
         <module name="microservice-article" />
         <module name="microservice-order" />
       </profile>
@@ -64,6 +65,7 @@
       <module name="microservice-order" options="-parameters" />
       <module name="microservice-payment" options="-parameters" />
       <module name="microservice-restaurant" options="-parameters" />
+      <module name="microservice-statistic" options="-parameters" />
       <module name="microservice-user" options="-parameters" />
       <module name="ms-user" options="-parameters" />
       <module name="zipkin-server" options="" />
