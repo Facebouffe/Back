@@ -45,3 +45,6 @@
 [submodule "microservice-statistic"]
 	path = microservice-statistic
 	url = https://github.com/Facebouffe/microservice-statistic.git
+[submodule "auth-server"]
+	path = auth-server
+	url = https://github.com/Facebouffe/auth-server.git

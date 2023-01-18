@@ -2,12 +2,12 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="microservice-payment" />
-        <module name="microservice-statistic" />
         <module name="microservice-restaurant" />
         <module name="microservice-notification" />
         <module name="eureka-service-discovery" />
@@ -26,6 +26,7 @@
       <module name="config-server (1) (com.Facebouffe)" target="19" />
       <module name="config-server (2) (com.facebouffe)" target="19" />
       <module name="microservice-clientui" target="19" />
+      <module name="microservice-statistic" target="19" />
       <module name="microservices" target="19" />
       <module name="ms-user" target="19" />
       <module name="parent-project" target="1.7" />
