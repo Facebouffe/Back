@@ -65,7 +65,7 @@
       <module name="microservice-order" options="-parameters" />
       <module name="microservice-payment" options="-parameters" />
       <module name="microservice-restaurant" options="-parameters" />
-      <module name="microservice-statistic" options="-parameters" />
+      <module name="microservice-statistic" options="" />
       <module name="microservice-user" options="-parameters" />
       <module name="ms-user" options="-parameters" />
       <module name="zipkin-server" options="" />
