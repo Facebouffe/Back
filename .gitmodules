@@ -42,6 +42,3 @@
 [submodule "microservice-notification"]
 	path = microservice-notification
 	url = https://github.com/Facebouffe/microservice-notification.git
-[submodule "microservice-statistic"]
-	path = microservice-statistic
-	url = https://github.com/Facebouffe/microservice-statistic.git
